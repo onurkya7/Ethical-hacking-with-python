@@ -33,3 +33,7 @@ pip install -r requirements.txt
 - **wifi_password_extractor.py:** Extracts Wi-Fi passwords from a Windows machine.
 
 
+## License
+
+Our project is licensed under the [MIT License](LICENSE).
+
